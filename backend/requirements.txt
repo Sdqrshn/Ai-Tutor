@@ -1,0 +1,10 @@
+fastapi[standard]
+motor
+passlib[bcrypt]
+passlib[argon2]
+python-dotenv
+email-validator
+python-jose
+google-genai
+pypdf
+google-auth
